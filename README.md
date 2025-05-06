@@ -1,2 +1,2 @@
 # CuCo
-Réalisation d'un outils de joint correctif avec une curve.
+Ce projet a pour objectif de simplifier la création de courbes correctrices dans Maya, en automatisant l’ajout de clusters et de joints contrôlables via une interface conviviale. Grâce à cet outil, j’ai pu optimiser mon workflow de rigging et gagner en efficacité. Ce projet démontre ma capacité à développer des outils personnalisés avec interface graphique en Python et PySide2 pour Maya, en intégrant à la fois des fonctionnalités techniques (motion path, orientation des joints, génération dynamique de courbes) et une approche utilisateur intuitive.
